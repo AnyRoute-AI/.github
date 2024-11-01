@@ -29,3 +29,5 @@ We make travel easy, affordable, and community-driven, with AI-powered options a
   <source src="./Morgan_AnyRouteAI.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+![AnyRoute AI](./demo_AnyRouetAI.png)
