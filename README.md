@@ -25,9 +25,4 @@ We're building a new kind of travel platform—like a next-gen Expedia—where a
 
 We make travel easy, affordable, and community-driven, with AI-powered options and trusted service.
 
-<video width="100%" controls>
-  <source src="./Morgan_AnyRouteAI.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-![AnyRoute AI](./demo_AnyRouetAI.png)
+![AnyRoute AI](./Morgan_AnyRouteAI.gif)
