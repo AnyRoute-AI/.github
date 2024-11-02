@@ -8,7 +8,7 @@
 
 We have two focus areas:
 ## 1. For Military 🎖
-We've modernized the 84-year-old Space-A travel, offering the largest real-time database so military members can easily find Space-A flights and terminals. No more digging through PDFs or Facebook pages—just easy access to the best Space-A flights, routes, and terminals, powered by AI.
+We've modernized the 84-year-old Space-A travel, offering the largest real-time AI-ready database so military members can easily find Space-A flights and terminals. No more digging through PDFs or Facebook pages—just easy access to the best Space-A flights, routes, and terminals, powered by AI.
 
 New to Space-A? Here’s a quick guide ✈️  
 • 🛫 [Simple Steps to secure Space-A flights](https://anyrouteai.com/blog/everything-you-need-to-know-about-space-a-travel)
