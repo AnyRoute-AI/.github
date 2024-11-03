@@ -2,9 +2,7 @@
 
 **AnyRoute AI** - your personal **Travel AI Agent**.  
 Discover the best routes, terminals, and flight options.  
-Maximize choices, minimize costs — all via chat.  
- 
-[Get Started Free!](https://anyrouteai.com/register)
+Maximize choices, minimize costs — all via chat. [Get Started Free!](https://anyrouteai.com/register)
 
 ## [Our Mission](https://anyrouteai.com/about)
 ### Make global exploration easy and accessible for everyone.
