@@ -1,7 +1,7 @@
 # [AnyRoute AI](https://anyrouteai.com): Smart Travel via Chat
 
 Your personal **Travel AI Agent**.  
-Find, plan, and optimize travel effortlessly.
+Find, plan, and optimize travel effortlessly.  
 Maximize options, minimize costs — all via chat. [Get Started Free!](https://anyrouteai.com/register)
 
 ## [Our Mission](https://anyrouteai.com/about)
