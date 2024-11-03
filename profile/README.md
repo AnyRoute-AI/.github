@@ -2,7 +2,7 @@
 
 Your personal **Travel AI Agent**.  
 Find, plan, and optimize travel effortlessly.  
-Maximize options, minimize costs — all via chat. [Get Started Free!](https://anyrouteai.com/register)
+Maximize options, minimize costs — all via chat. [Get Started!](https://anyrouteai.com/register)
 
 ## [Our Mission](https://anyrouteai.com/about)
 ### Make global exploration easy and accessible for everyone.
